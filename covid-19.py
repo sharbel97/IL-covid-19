@@ -1,5 +1,4 @@
 import tweepy
-import time
 from selenium import webdriver
 
 consumer_key = ''
