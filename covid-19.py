@@ -2,10 +2,10 @@ import tweepy
 import time
 from selenium import webdriver
 
-consumer_key = 'qIRwqI2PNH73SgK5NteyTodBa'
-consumer_secret = 'DMS1m8FnTRerp3LsrCBqu9TvqLq1rGo0WScQgvnIFfnd1wlaCp'
-access_token = '2452347709-PF3lToETIlUkDwG3YUjR3s2fV7Evv9XfuYHmgzF'
-access_token_secret = 'nooQhg0D2IZ6yzCm8HnLJGI35M3pmjvYRsFyUnuj8h9yJ'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_token_secret = ''
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
